@@ -1,0 +1,11 @@
+{
+  "name": "exercise03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "remove.js",
+  "scripts": {
+    "test": "node remove.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
